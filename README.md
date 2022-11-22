@@ -1,4 +1,5 @@
 ### Change docker-compose.yml
+- Line 6 to your current linux username
 - Line 8 to Php version you want
 - Line 22 to Mysql version you want
 
