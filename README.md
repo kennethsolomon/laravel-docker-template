@@ -27,6 +27,7 @@
 - DB_PASSWORD=secret
 
 ### Phpmyadmin Access
+- URL: http://localhost:8081/
 - Server: host.docker.internal
 - Username: homestead
 - Password: secret
